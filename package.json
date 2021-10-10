@@ -1,0 +1,34 @@
+{
+  "name": "steamsharedsecretgrabber",
+  "version": "1.0.0",
+  "description": "Best method to grab your steam shared secret without Desktop Auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eacbypass/Steam-Shared-Secret-Grabber.git"
+  },
+  "keywords": [
+    "steam",
+    "auth",
+    "shared",
+    "secret",
+    "sharedsecret",
+    "steam",
+    "auth",
+    "mobile",
+    "auth",
+    "login"
+  ],
+  "author": "eacbypass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eacbypass/Steam-Shared-Secret-Grabber/issues"
+  },
+  "homepage": "https://github.com/eacbypass/Steam-Shared-Secret-Grabber#readme",
+  "dependencies": {
+    "steam-user": "^4.20.0"
+  }
+}
